@@ -11,7 +11,7 @@ var factorialOfThree = factorial(3); //would be 3! in mathematical writing
 
 ### For Developers
 
-Run test by simply calling
+Run tests by simply calling
 
 ```
 npm test
