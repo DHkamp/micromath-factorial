@@ -1,0 +1,22 @@
+{
+  "name": "mircomath-factorial",
+  "version": "0.0.0",
+  "description": "This package provides the functionality to calculate factorials",
+  "author": "David Hölkeskamp <dhoelkeskamp@gmail.com>",
+  "keywords": [
+    "math",
+    "factorial"
+  ],
+  "bugs": {
+    "url": "https://github.com/DHkamp/micromath-factorial/issues"
+  },
+  "scripts": {
+    "test": "mocha ./test/factorialSpec.js",
+    "build": "uglifyjs ./src/factorial.js -c -m -o ./build/factorial.min.js"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "uglifyjs": "^2.4.10"
+  }
+}
