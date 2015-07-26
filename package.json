@@ -1,8 +1,9 @@
 {
   "name": "micromath-factorial",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package provides the functionality to calculate factorials",
   "author": "David Hölkeskamp <dhoelkeskamp@gmail.com>",
+  "main": "./build/factorial.min.js",
   "keywords": [
     "math",
     "factorial"
