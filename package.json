@@ -1,6 +1,6 @@
 {
   "name": "mircomath-factorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides the functionality to calculate factorials",
   "author": "David Hölkeskamp <dhoelkeskamp@gmail.com>",
   "keywords": [
