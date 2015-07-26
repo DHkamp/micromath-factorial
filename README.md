@@ -2,6 +2,14 @@
 
 This micromodule handles calculating factorials - that's it.
 
+### Installation
+
+Install by running
+
+```
+npm i mircomath-factorial --save
+```
+
 ### API
 
 ```javascript
@@ -11,13 +19,13 @@ var factorialOfThree = factorial(3); //would be 3! in mathematical writing
 
 ### For Developers
 
-Run tests by simply calling
+Run tests by simply running
 
 ```
 npm test
 ```
 
-or you can build (uglify) for yourself by calling
+or you can build (uglify) for yourself by running
 
 ```
 npm run build
