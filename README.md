@@ -7,7 +7,7 @@ This micromodule handles calculating factorials - that's it.
 Install by running
 
 ```
-npm i mircomath-factorial --save
+npm i micromath-factorial --save
 ```
 
 ### API
